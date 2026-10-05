@@ -1,2 +1,5 @@
 # nvd-ad-media
-Tijdelijke advertentiebeelden NVD Exclusive Car Stor. Bestanden worden gewist zodra Meta ze heeft opgehald.
+
+Tijdelijke opslag van advertentiebeelden voor NVD Exclusive Car Store (Sint-Niklaas).
+
+Meta haalt de beelden hier op voor advertenties. Zodra Meta ze heeft opgehaald, worden de bestanden hier gewist. De map is normaal leeg.
